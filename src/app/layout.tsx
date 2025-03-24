@@ -4,7 +4,7 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-  title: 'Huda Kukaswadia | Portfolio',
+  title: 'Huda Kukaswadia ',
   description: 'Personal portfolio website of Huda Kukaswadia',
 };
 
