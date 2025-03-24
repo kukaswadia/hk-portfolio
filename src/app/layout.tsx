@@ -21,6 +21,17 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=NTR&display=swap" rel="stylesheet" />
         <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+          {/* Structured Data for Google (Logo) */}
+  <script type="application/ld+json">
+    {`
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "url": "https://www.hudakukaswadia.com",
+        "logo": "https://www.hudakukaswadia.com/logo.png"
+      }
+    `}
+  </script>
       </head>
       <body className="bg-darkest-bg">
         <div className="mx-auto">
