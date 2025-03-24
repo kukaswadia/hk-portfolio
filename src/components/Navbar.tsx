@@ -35,7 +35,7 @@ const Navbar = () => {
 
   const socialLinks = [
     { name: 'Email', href: 'mailto:huda.kukaswadia@gmail.com', icon: <FiMail size={20} /> },
-    { name: 'GitHub', href: 'https://github.com/hudakukaswadia', icon: <FiGithub size={20} /> },
+    { name: 'GitHub', href: 'https://github.com/kukaswadia', icon: <FiGithub size={20} /> },
     { name: 'LinkedIn', href: 'https://linkedin.com/in/hudakukaswadia', icon: <FiLinkedin size={20} /> },
     { name: 'Resume', href: 'https://medium.com/@huda.kukaswadia', icon: <FiEdit size={20} /> },
   ];

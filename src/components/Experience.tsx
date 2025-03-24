@@ -16,15 +16,6 @@ const experienceData = [
         "Orchestrated CI/CD pipelines with Jenkins, Docker, and Kubernetes, streamlining development workflows and reducing release cycles from weeks to days."
     ]
   },
-//   {
-//     company: "MAJESTIC CERAMICS",
-//     title: "Software Engineer",
-//     period: "OCT 2022 - AUG 2023",
-//     responsibilities: [
-//       "Developed and maintained key features for the Wattpad platform, helping millions of writers share their stories with a global audience.",
-//       "Optimized web performance resulting in a 25% improvement in page load times and better user engagement metrics."
-//     ]
-//   },
   {
     company: "ADIRANI DIGITAL SOLUTIONS",
     title: "Software Developer",

@@ -8,32 +8,32 @@ import { FiGithub, FiExternalLink, FiChevronLeft, FiChevronRight, FiFolder } fro
 // Featured project data (for slider)
 const featuredProjects = [
   {
-    title: "Portfolio.js",
-    description: "A small JS library that helps with clear and succinct data presentation that is easy to navigate.",
+    title: "Finance Data API",
+    description: "A robust data engineering solution for extracting, processing, and analyzing financial data from SEC filings and earnings reports. Still working on it, please check back later",
     image: "/images/project1.jpg",
-    tags: ["React", "Node.js", "Express.js"],
-    github: "https://github.com",
-    demo: "https://example.com"
+    tags: ["Python"],
+    github: "https://github.com/kukaswadia/financialData_API",
+    demo: "https://github.com/kukaswadia/financialData_API"
   },
   {
-    title: "E-commerce Platform",
-    description: "Full-featured e-commerce solution with modern UI and secure checkout process.",
+    title: "Lorem ipsum",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     image: "/images/project2.jpg",
     tags: ["Next.js", "TypeScript", "MongoDB"],
     github: "https://github.com",
     demo: "https://example.com"
   },
   {
-    title: "Health & Fitness App",
-    description: "Mobile-first application for tracking fitness goals with personalized recommendations.",
+    title: "Lorem ipsum",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     image: "/images/project3.jpg",
     tags: ["React Native", "Firebase", "Redux"],
     github: "https://github.com",
     demo: "https://example.com"
   },
   {
-    title: "Finance Dashboard",
-    description: "Interactive dashboard for visualizing financial data with customizable widgets.",
+    title: "Lorem ipsum",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     image: "/images/project1.jpg", // Placeholder - replace with actual image
     tags: ["Vue.js", "D3.js", "Tailwind CSS"],
     github: "https://github.com",
@@ -44,43 +44,43 @@ const featuredProjects = [
 // Other projects data (for grid)
 const otherProjects = [
   {
-    title: "Minimax Stonehenge",
-    description: "Two-player, zero-sum game with a strategic Minimax artificial intelligence.",
-    tags: ["Python"],
-    github: "https://github.com",
-    demo: "https://example.com"
+    title: "URL Shortener",
+    description: "An efficient URL shortener that converts long links into compact, shareable URLs with redirection support.",
+    tags: ["Java", "Springboot"],
+    github: "https://github.com/kukaswadia/url_shortener",
+    demo: "https://hk-tinyurl.up.railway.app/"
   },
   {
-    title: "Recipe Finder",
-    description: "Application that helps users find recipes based on ingredients they have.",
+    title: "Path Finding Visualizer",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     tags: ["React", "Food API", "CSS"],
-    github: "https://github.com",
+    github: "https://github.com/kukaswadia/PathFindingVisualizer",
     demo: "https://example.com"
   },
   {
-    title: "Task Management Tool",
-    description: "Productivity app for organizing tasks with drag-and-drop, priority levels, and deadline reminders.",
-    tags: ["Vue.js", "Vuex", "Firebase"],
-    github: "https://github.com",
+    title: "Personal Wastebin",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    tags: ["JavaScript"],
+    github: "https://github.com/kukaswadia/Personalwastebin",
     demo: "https://example.com"
   },
   {
     title: "Portfolio Template",
-    description: "Customizable portfolio website template for developers and designers.",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     tags: ["HTML", "SCSS", "JavaScript"],
     github: "https://github.com",
     demo: "https://example.com"
   },
   {
-    title: "Music Player",
-    description: "Custom audio player with playlist management and support for multiple audio formats.",
+    title: "Lorem ipsum",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     tags: ["React", "Web Audio API"],
     github: "https://github.com",
     demo: "https://example.com"
   },
   {
-    title: "Chat Application",
-    description: "Real-time messaging application with user authentication, group chats, and file sharing.",
+    title: "Lorem ipsum",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     tags: ["Socket.io", "Express", "MongoDB"],
     github: "https://github.com",
     demo: "https://example.com"
