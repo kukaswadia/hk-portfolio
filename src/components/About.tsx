@@ -86,7 +86,7 @@ const About = () => {
               </div>
               <div>
                 <p className="text-[#8892b0] mb-6 font-light text-lg">
-                  Outside of work, you'll find me playing chess, going for a run or hitting a lagree class. I also dine out (a lot) at those notoriously hard-to-get reservation spots—someone's got to keep the chase alive.
+                  Outside of work, you'll find me playing chess, going for a run or hitting a lagree class. 
                 </p>
               </div>
             </div>
